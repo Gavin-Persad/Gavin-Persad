@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gavin-Persad
+- 👀 I am new to the world of coding and am looking to learn fast.
+- 🌱 I’m currently learning HTML and CSS. I am proceeding through a full stack bootcamp that will introduce me to all areas.
+- 💞️ I’m looking to collaborate on learning for now. I will be working with others on tasks to broaden my knowledge and skills.
+- 📫 How to reach me? Shoot me an email. GavinAPersad@gmail.com
+- 🧔 I am going to make some fun puzzles once my knowledge is a bit better, I will be happy to share
