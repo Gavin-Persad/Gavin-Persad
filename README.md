@@ -1,6 +1,22 @@
-- 👋 Hi, I’m @Gavin-Persad
-- 👀 I am new to the world of coding and am looking to learn fast.
-- 🌱 I’m currently learning HTML and CSS. I am proceeding through a full stack bootcamp that will introduce me to all areas.
-- 💞️ I’m looking to collaborate on learning for now. I will be working with others on tasks to broaden my knowledge and skills.
-- 📫 How to reach me? Shoot me an email. GavinAPersad@gmail.com
-- 🧔 I am going to make some fun puzzles once my knowledge is a bit better, I will be happy to share
+👋 Hi! I’m Gavin 👋
+
+🌐 Background:
+
+Former property manager turned tech enthusiast.
+Passionate about coding, with a gaming background.
+🚀 Recent Achievement:
+
+Successfully completed a 16-week developer bootcamp.
+Rapid skill acquisition and effective teamwork were key.
+🎸 Fun Fact:
+
+I’ve been playing bass guitar in the same band for 20 years.
+⚽ Football Enthusiast:
+
+A devoted Tottenham Hotspur fan.
+Also love football simulation games (10+ years of online team play).
+🏃‍♂️ Charity Supporter:
+
+Participate in sponsored walks for national and local charities.
+Raised £2000 for children’s cancer research in the Shine Marathon last year.
+🌟 Passion: Connecting with people and making a positive impact.
