@@ -46,9 +46,7 @@ Connecting with people and making a positive impact.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: auto;" />
 </p>
 <br>
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gavin-persad&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
-<p align="center">
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Gavin-Persad)](https://github.com/ignacio-cuadra/github-readme-codewars)
-</p>
+
