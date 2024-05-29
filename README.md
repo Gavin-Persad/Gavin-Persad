@@ -48,5 +48,6 @@ Connecting with people and making a positive impact.
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gavin-persad&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Gavin-Persad)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
