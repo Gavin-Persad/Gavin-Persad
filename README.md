@@ -5,27 +5,14 @@
 
 👋 Hi! I’m Gavin 👋
 
-🌐 Background:
-Former property manager turned tech enthusiast.
-Passionate about coding, with a gaming background.
+🌟 From Property Manager to Code Crafter: After years juggling HMOs and pub shifts, I took the leap in 2024 – ditched the compliance checklists for commit messages and joined the epic 16-week School of Code bootcamp. Best decision ever!
 
-🚀 Recent Achievement:
-Successfully completed a 16-week developer bootcamp.
-Rapid skill acquisition and effective teamwork were key.
+🚀 Now Building & Analysing: Hands-on with Python, pandas, React, Supabase, AWS S3 – from web scraping migrations and bug-squashing freelances to crafting a full Predictions Bet App for my football community. Currently geeking out on a juicy data project: diving into thousands of score predictions to spot trends, fastest fingers, team biases, and hidden patterns (all in Jupyter with pandas, NumPy, Matplotlib & Seaborn).
 
-🎸 Fun Fact:
-I’ve been playing bass guitar in the same band for 20 years.
+🎸 Fun Stuff: Still rocking the bass in the same band for 20+ years 🤘 | Die-hard Spurs fan ⚽ (COYS!) | Love football sim games and online leagues | Regular charity walker – raised £2k last year for children’s cancer research on the Shine Marathon 🏃‍♂️
 
-⚽ Football Enthusiast:
-A devoted Tottenham Hotspur fan.
-Also love football simulation games (10+ years of online team play).
+🌍 Always learning, always shipping code, and always up for a chat – let’s connect!
 
-🏃‍♂️ Charity Supporter:
-Participate in sponsored walks for national and local charities.
-Raised £2000 for children’s cancer research in the Shine Marathon last year.
-
-🌟 Passion:
-Connecting with people and making a positive impact.
 
 <br>
 <br>
