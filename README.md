@@ -1,18 +1,95 @@
-👋 Hi! I’m Gavin 👋
+# 👋 Hey, I’m Gavin Persad
 
-🌟 From Property Manager to Code Crafter: After years juggling HMOs and pub shifts, I took the leap in 2024 – ditched the compliance checklists for commit messages and joined the epic 16-week School of Code bootcamp. Best decision ever!
+### 🧠 Junior Data Engineer / Analyst • 🛠️ Full‑Stack Problem Solver • ⚽ Football Data Enthusiast
 
-🚀 Now Building & Analysing: Hands-on with Python, pandas, React, Supabase, AWS S3 – from web scraping migrations and bug-squashing freelances to crafting a full Predictions Bet App for my football community. Currently geeking out on a juicy data project: diving into thousands of score predictions to spot trends, fastest fingers, team biases, and hidden patterns (all in Jupyter with pandas, NumPy, Matplotlib & Seaborn).
+---
 
-🎸 Fun Stuff: Still rocking the bass in the same band for 20+ years 🤘 | Die-hard Spurs fan ⚽ (COYS!) | Love football sim games and online leagues | Regular charity walker – raised £2k last year for children’s cancer research on the Shine Marathon 🏃‍♂️
+## 🚀 From Property Manager → Developer → Data Engineer-in-the-Making
 
-🌍 Always learning, always shipping code, and always up for a chat – let’s connect!
+After years managing 100+ HMO properties and running late-night pub operations, I made the jump into tech in 2024 — completing the **16‑week School of Code bootcamp** and never looking back.
 
+Since then, I’ve been building, scraping, analysing, automating, debugging, deploying… and generally having a blast turning messy data into meaningful insights.
 
-<br>
+---
 
+# 🧰 Tech I Use
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gavin-persad&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Gavin-Persad)](https://github.com/ignacio-cuadra/github-readme-codewars)
+### **Data & Python**
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebooks`
 
+### **Databases & Cloud**
+`PostgreSQL` • `Supabase` • `AWS S3` • `Docker` • `Vercel`
+
+### **Web & Tooling**
+`React` • `Next.js` • `Node.js` • `BeautifulSoup` • `Selenium` • `GitHub` • `Terraform`
+
+---
+
+# 📊 What I’m Working On
+
+### **⚽ Predictions Bet App — Data Analysis Project**
+A real-world dataset from my football community app:
+
+- Thousands of score predictions, match outcomes, and behavioural patterns  
+- EDA in Jupyter using pandas, NumPy, Matplotlib & Seaborn  
+- Insights into:
+  - ⏱️ Fastest & slowest predictors  
+  - 🎯 Accuracy trends  
+  - 🔁 Forgotten entries  
+  - 💙 Team biases  
+  - 📈 Engagement patterns  
+
+This project blends everything I love: football, data, automation, and community.
+
+---
+
+# 🛠️ Projects I’ve Built
+
+### **🧩 Predictions Bet App (Creator)**
+- Designed Supabase schemas for predictions, match metadata & user history  
+- Built ETL-like automation to replace manual data entry  
+- Synced React UI with real-time Supabase queries  
+- Delivered a smooth, community-driven experience  
+
+### **🕸️ Web Scraping Migration – School of Code**
+- Built a BeautifulSoup + Selenium scraper to extract & clean structured content  
+- Loaded data into a new digital platform  
+- Wrote Jest tests to ensure data quality  
+
+### **💼 IronLight – Front-End Developer**
+- Production-level React & PHP work  
+- Fixed bugs, improved UX, and shipped responsive UI updates  
+- Collaborated in agile workflows with senior devs  
+
+---
+
+# 🎓 Learning & Growth
+
+### **📘 Self-Directed Data Analysis (2025)**
+Following Luke Barousse’s “Python for Data Analysis” series — levelling up in pandas, NumPy, Matplotlib, Seaborn.
+
+### **🎓 School of Code Bootcamp (2024)**
+- Full-stack development  
+- Backend data integration  
+- TDD with Vitest & Playwright  
+- Pair programming & agile teamwork  
+
+---
+
+# 🎸 Outside of Tech
+
+- 🎸 Bassist in the same band for 20+ years  
+- ⚽ Spurs fan (COYS!)  
+- 🎮 Football sim games & online leagues  
+- 🏃‍♂️ Charity walker — raised £2k for children’s cancer research in the Shine Marathon  
+- 🍻 Still occasionally helping run pubs because… well, someone has to keep the taps flowing  
+
+---
+
+# 🤝 Let’s Connect
+
+- **LinkedIn:** https://linkedin.com/in/gavin-persad  
+- **GitHub:** https://github.com/Gavin-Persad  
+- **Email:** gavinapersad@gmail.com  
+
+Always learning, always building, always analysing — and always up for a chat.
