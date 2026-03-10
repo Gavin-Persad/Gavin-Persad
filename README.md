@@ -1,8 +1,3 @@
-![banner](gavin.png)
-
-<br>
-<br>
-
 👋 Hi! I’m Gavin 👋
 
 🌟 From Property Manager to Code Crafter: After years juggling HMOs and pub shifts, I took the leap in 2024 – ditched the compliance checklists for commit messages and joined the epic 16-week School of Code bootcamp. Best decision ever!
