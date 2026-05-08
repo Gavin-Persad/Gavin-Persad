@@ -1,53 +1,56 @@
 # 👋 Hey, I’m Gavin Persad
 
-### 🧠 Junior Data Engineer / Analyst • 🛠️ Full‑Stack Problem Solver • ⚽ Football Data Enthusiast
+### 🛠️ Software Developer • 📊 Data‑Driven Builder • ⚽ Football Analytics Enthusiast
 
 ---
 
-## 🚀 From Property Manager → Developer → Data Engineer-in-the-Making
+## 🚀 From Property Manager → Developer → Tech All‑Rounder with a Data Obsession
 
-After years managing 100+ HMO properties and running late-night pub operations, I made the jump into tech in 2024 — completing the **16‑week School of Code bootcamp** and never looking back.
+After years managing 100+ HMO properties and running late-night pub operations, I jumped into tech in 2024 through the **16‑week School of Code bootcamp** — and instantly found my place.
 
-Since then, I’ve been building, scraping, analysing, automating, debugging, deploying… and generally having a blast turning messy data into meaningful insights.
+Since then, I’ve been building full‑stack apps, automating workflows, scraping data, analysing football trends, and generally blending **software engineering** with **data curiosity**.  
+I love writing code that solves problems and uncovering insights that tell a story.
 
 ---
 
 # 🧰 Tech I Use
 
+### **Core Development**
+`JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `GitHub`
+
 ### **Data & Python**
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter Notebooks`
 
 ### **Databases & Cloud**
-`PostgreSQL` • `Supabase` • `AWS S3` • `Docker` • `Vercel`
+`PostgreSQL` • `Supabase` • `AWS S3` • `Docker` • `Vercel` • `Terraform`
 
-### **Web & Tooling**
-`React` • `Next.js` • `Node.js` • `BeautifulSoup` • `Selenium` • `GitHub` • `Terraform`
+### **Scraping & Automation**
+`BeautifulSoup` • `Selenium`
 
 ---
 
-# 📊 What I’m Working On
+# 📊 Football Data Work
 
-### **⚽ Predictions Bet App — Data Analysis Project**
-A real-world dataset from my football community app:
+### **⚽ Predictions Bet App — My Ongoing Data Playground**
 
-- Thousands of score predictions, match outcomes, and behavioural patterns  
-- EDA in Jupyter using pandas, NumPy, Matplotlib & Seaborn  
-- Insights into:
-  - ⏱️ Fastest & slowest predictors  
-  - 🎯 Accuracy trends  
-  - 🔁 Forgotten entries  
-  - 💙 Team biases  
-  - 📈 Engagement patterns  
+A real-world dataset generated from my football community app, giving me thousands of predictions to explore:
 
-This project blends everything I love: football, data, automation, and community.
+- Score predictions vs actual outcomes  
+- Accuracy trends across gameweeks  
+- ⏱️ Fastest & slowest predictors  
+- 🔁 Forgotten entries  
+- 💙 Team bias & fan behaviour  
+- 📈 Engagement patterns  
+
+This project is where my **software engineering**, **automation**, and **football analytics** collide — and it keeps evolving every season.
 
 ---
 
 # 🛠️ Projects I’ve Built
 
 ### **🧩 Predictions Bet App (Creator)**
-- Designed Supabase schemas for predictions, match metadata & user history  
-- Built ETL-like automation to replace manual data entry  
+- Designed Supabase schemas for predictions, matches & user history  
+- Built automation to replace manual data entry  
 - Synced React UI with real-time Supabase queries  
 - Delivered a smooth, community-driven experience  
 
@@ -82,7 +85,7 @@ Following Luke Barousse’s “Python for Data Analysis” series — levelling 
 - ⚽ Spurs fan (COYS!)  
 - 🎮 Football sim games & online leagues  
 - 🏃‍♂️ Charity walker — raised £2k for children’s cancer research in the Shine Marathon  
-- 🍻 Still occasionally helping run pubs because… well, someone has to keep the taps flowing  
+- 🍻 Still occasionally helping run pubs because someone has to keep the taps flowing  
 
 ---
 
@@ -92,4 +95,4 @@ Following Luke Barousse’s “Python for Data Analysis” series — levelling 
 - **GitHub:** https://github.com/Gavin-Persad  
 - **Email:** gavinapersad@gmail.com  
 
-Always learning, always building, always analysing — and always up for a chat.
+Always building, always analysing, always learning — especially when football is involved.
